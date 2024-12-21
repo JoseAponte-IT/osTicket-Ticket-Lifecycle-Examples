@@ -120,6 +120,7 @@ creation date, and more
 
 
 # 🎉Congratulations
+osTickets now has users and have the know how to do our ticketing needs. Don't forget, be the tech wiz you know you can be. Kepp on Keeping on 🧙‍♂️ 
 
 <h2>We Have Successfully:</h2>
 
@@ -133,4 +134,4 @@ creation date, and more
 
 - Developed troubleshooting skills by addressing real-world ticketing scenarios.
 
-# That Concludes this lab, osTicket is up and running and fully configured for use 🌝. AND NOW WE HAVE USERS (ADMINISTRATIVE AND CLIENTS) TO DO OUR TICKETING NEEDS. DONT FORGET, BE THE TECH WIZ YOU KNOW YOU ARE AND KEEP ON KEEPING ON.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# That Concludes all osTicket labs  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
