@@ -19,8 +19,6 @@ Whenever I refer to solving or anything as an admin/ support engineer im using t
 - Windows 10 VM: Virtual environment used for hosting and configuring the ticketing system.
 - RDP: Remote Desktop Protocol for securely accessing the Azure-hosted VM.
 
-- Networking Protocols; ICMP, SSH, RDP, DNS, DHCP
-
 <h2>Key Objectives:</h2>
 
 - Gain practical experience with ticket lifecycles, SLAs (Service Level Agreements), and priority handling.
