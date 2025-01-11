@@ -14,7 +14,7 @@ Whenever I refer to solving or anything as an admin/ support engineer im using t
 
 <h2>Tools & Technology Used</h2>
 
-- osTicket: A widely-used open-source ticketing system for customer support.
+- osTicket: A widely used open-source ticketing system for customer support.
 - Microsoft Azure: Cloud platform for hosting the Windows 10 virtual machine.
 - Windows 10 VM: Virtual environment used for hosting and configuring the ticketing system.
 - RDP: Remote Desktop Protocol for securely accessing the Azure-hosted VM.
